@@ -1,0 +1,38 @@
+
+1 - Programação Linear
+
+    Executado de cima pra baixo.
+
+2 - Programação Estruturada
+
+    Possível agrupar em funções.
+    Se tenho várias "paginas" tenho que inserir o mesmo código em todas
+
+3 - Programação Modular
+
+    Módulo chamado usuário. Nele insiro a função e chamo ela onde eu precisar.
+
+4 - Programação Orientada a Objetos
+
+    Não é chamado mais de módulo e sim de classe. As classes são utilizadas para otimizar.
+    É possível criar relação entre elas e reaproveitar.
+
+----
+
+Pilares da orientação a objetos:
+
+1 - Abstração
+
+    - Define o que do mundo real será trazido para o sistema. Coisas uteis a serem utilizadas.
+
+2 - Encapsulamento
+
+3 - Herança
+
+4 - Polimorfismo
+
+---
+
+Classes - SempreAssimComLetraMaiuscula
+
+Atributos e Metodos - sempreAssimComLetraMinuscula
